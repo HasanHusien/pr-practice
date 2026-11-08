@@ -1,3 +1,4 @@
 # pr-practice
-Hello from PR 1
-Helo from PR 2
+Hello from feature 2.  
+its exist.
+
